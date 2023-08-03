@@ -1,0 +1,50 @@
+body{
+   margin: 0 !important;
+   padding: 0 !important; 
+}
+
+.banner{
+    height: 100vh;
+    width: 100vw;
+    background-image: url(./banner.jpg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.about-sign-in{
+    height: 80px;
+    width: 100%;
+    margin-top: 10px;
+    text-align: right;
+}
+
+.about-us{
+    color: chocolate;
+    padding: 7px;
+    margin-right: 20px;
+    margin-top: 10px;
+    text-decoration: none;
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+.sign-in{
+    color: darkolivegreen;
+    padding: 5px 10px;
+    margin-right: 20px;
+    margin-top: 10px;
+    text-decoration: none;
+    display: inline-block;
+    text-transform: uppercase;
+    border: 2px solid green;
+    border-radius: 20px;
+}
+
+.logo{
+    background: url(./logo-social.png);
+    height: 13vh;
+    width: 9vw;
+    margin: 6% 46%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
